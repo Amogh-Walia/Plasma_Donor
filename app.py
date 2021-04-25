@@ -14,7 +14,6 @@ Create table accounts (
 id int(10) not null auto_increment,
 name varchar(150) not null,
 Age int(100) not null,
-Sex varchar(225) not null,
 City varchar(100) not null,
 state varchar(100) not null,
 email varchar(100) not null,
