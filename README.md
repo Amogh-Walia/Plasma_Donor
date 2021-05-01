@@ -9,3 +9,9 @@ A one-stop portal for all things CoVID- from live statistics to plasma leads.
 <img src="LP2.png">
 <br>
 <hr>
+<h1>Registration Form</h1>
+<img src="Register.png">
+<hr>
+<h1>Find a Donor</h1>
+<img src="Find.png">
+<hr>
