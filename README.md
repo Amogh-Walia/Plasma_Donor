@@ -8,6 +8,7 @@ A one-stop portal for all things CoVID- from live statistics to plasma leads.
 <br>
 <img src="LP2.png">
 <br>
+<br>
 <hr>
 <h1>Registration Form</h1>
 <img src="Register.png">
